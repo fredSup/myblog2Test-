@@ -1,0 +1,5 @@
+*.pyc
+*.pyc
+*.sqlite3
+*.log
+*__pycache_*_
